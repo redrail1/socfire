@@ -10,6 +10,7 @@ SocFire Instructions:
 6) sudo pip3 install xvfbwrapper
 
 Add a text file with a list of IP addresses from Security Events, name it "IP.txt" put it in the same directory as socfire.py
+
 Add the list of keywords to "keyword_list.txt" and keep it in the same directory of socfire.py
 
 Usage: "sudo python3 socfire.py"
